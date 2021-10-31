@@ -1,1 +1,1 @@
-# Kodluyoruz HTML ÖDEV 1
+# Kodluyoruz Front End Eğitimi Html Ödev 1
