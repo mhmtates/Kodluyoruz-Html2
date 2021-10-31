@@ -1,0 +1,9 @@
+# Kodluyoruz-Html
+<h1>Mehmet Ateş Özateş</h1>
+<h2>Hakkımda</h2>
+<p>Merhaba.Ben Mehmet Ateş Özateş.İstanbulda yaşıyorum.Bilimkurgu,aksiyon ve gerilim dizileri,futbol ve basketbol maçları izlemeyi severim.Netflix'de izlediğim en iyi dizi kesinlikle Dark'tı.Bunun haricinde,web geliştirme alanında kendimi geliştirmek istiyorum.Kodluyoruz sayesinde çok şey öğreneceğime inanıyorum. </p>
+<h2>Sevdiğim Diziler</h2>
+<h3>Dark</h3>
+<!-- Dark, Almanya'da Winden kasabasında 33 yılda bir tekrar eden olayları ve zaman yolculuğunu konu alan bir Netflix dizisidir. -->
+<h3>La Casa De Papel</h3>
+<!-- La Casa De Papel, Profesör lakaplı bir adamın önderliğinde toplanan dali maskeli bir grubun, İspanya Merkez Bankası'nı ve Darphane'sini soyarken polisle çatıştığı bir Netflix dizisidir.  -->
